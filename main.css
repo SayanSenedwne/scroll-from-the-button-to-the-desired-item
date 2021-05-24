@@ -1,0 +1,37 @@
+html, body  {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-left: 80px;
+}
+
+.number.a {
+    padding: 10px 20px 10px 20px;
+    background: yellow;
+    text-decoration: none;
+    border-radius: 8px;
+    border: none;
+}
+
+.p {
+    font-size: 26px;
+}
+
+.number.d {
+    padding: 10px 20px 10px 20px;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
